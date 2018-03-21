@@ -8,7 +8,7 @@ jobs:
       - run: echo doing nothing.
 
   ###########################
-  #### ubuntu-14.04-XXL #####
+  #### ubuntu-124.04-XXL #####
   ###########################
   ubuntu-14.04-XXL:
     machine:
